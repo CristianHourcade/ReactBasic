@@ -12,6 +12,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+img{
+  max-height: 400px;
+    margin: auto;
+}
+.card{
+ height: 600px;
+ margin: 10px;
+}
 
 .App-header {
   background-color: #282c34;
